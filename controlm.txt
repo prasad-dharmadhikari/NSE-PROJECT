@@ -1,0 +1,6 @@
+#Wed Nov 16 23:02:01 IST 2022
+session.login.api=/automation-api/session/login
+server.name=M0760.VYOM-LABS.com
+port=8443
+job.status.api=/automation-api/run/status/
+order.api=/automation-api/run/order
