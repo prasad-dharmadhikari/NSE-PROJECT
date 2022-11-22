@@ -1,0 +1,7 @@
+*.log
+*.gz
+.project
+mvnw
+mvnw.cmd
+.classpath
+.factorypath

@@ -58,6 +58,4 @@ public class ControlMConfig {
                 + jobStatusApi + ", serverName=" + serverName + ", port=" + port + "]";
     }
     
-    
-
 }
